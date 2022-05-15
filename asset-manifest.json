@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fenix-company-app/static/css/main.c5606f3b.chunk.css",
-    "main.js": "/fenix-company-app/static/js/main.c1f8e7c2.chunk.js",
-    "main.js.map": "/fenix-company-app/static/js/main.c1f8e7c2.chunk.js.map",
+    "main.js": "/fenix-company-app/static/js/main.6ff3849c.chunk.js",
+    "main.js.map": "/fenix-company-app/static/js/main.6ff3849c.chunk.js.map",
     "runtime-main.js": "/fenix-company-app/static/js/runtime-main.bf878059.js",
     "runtime-main.js.map": "/fenix-company-app/static/js/runtime-main.bf878059.js.map",
     "static/css/2.ca55494a.chunk.css": "/fenix-company-app/static/css/2.ca55494a.chunk.css",
@@ -86,6 +86,6 @@
     "static/css/2.ca55494a.chunk.css",
     "static/js/2.2299114b.chunk.js",
     "static/css/main.c5606f3b.chunk.css",
-    "static/js/main.c1f8e7c2.chunk.js"
+    "static/js/main.6ff3849c.chunk.js"
   ]
 }
