@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/fenix-company-app/static/css/main.c5606f3b.chunk.css",
-    "main.js": "/fenix-company-app/static/js/main.24f8c7cd.chunk.js",
-    "main.js.map": "/fenix-company-app/static/js/main.24f8c7cd.chunk.js.map",
-    "runtime-main.js": "/fenix-company-app/static/js/runtime-main.9da89f8c.js",
-    "runtime-main.js.map": "/fenix-company-app/static/js/runtime-main.9da89f8c.js.map",
+    "main.js": "/fenix-company-app/static/js/main.c1f8e7c2.chunk.js",
+    "main.js.map": "/fenix-company-app/static/js/main.c1f8e7c2.chunk.js.map",
+    "runtime-main.js": "/fenix-company-app/static/js/runtime-main.bf878059.js",
+    "runtime-main.js.map": "/fenix-company-app/static/js/runtime-main.bf878059.js.map",
     "static/css/2.ca55494a.chunk.css": "/fenix-company-app/static/css/2.ca55494a.chunk.css",
-    "static/js/2.c930ef2a.chunk.js": "/fenix-company-app/static/js/2.c930ef2a.chunk.js",
-    "static/js/2.c930ef2a.chunk.js.map": "/fenix-company-app/static/js/2.c930ef2a.chunk.js.map",
-    "static/js/3.ec53e0d9.chunk.js": "/fenix-company-app/static/js/3.ec53e0d9.chunk.js",
-    "static/js/3.ec53e0d9.chunk.js.map": "/fenix-company-app/static/js/3.ec53e0d9.chunk.js.map",
+    "static/js/2.2299114b.chunk.js": "/fenix-company-app/static/js/2.2299114b.chunk.js",
+    "static/js/2.2299114b.chunk.js.map": "/fenix-company-app/static/js/2.2299114b.chunk.js.map",
+    "static/js/3.9365c90c.chunk.js": "/fenix-company-app/static/js/3.9365c90c.chunk.js",
+    "static/js/3.9365c90c.chunk.js.map": "/fenix-company-app/static/js/3.9365c90c.chunk.js.map",
     "index.html": "/fenix-company-app/index.html",
     "static/css/2.ca55494a.chunk.css.map": "/fenix-company-app/static/css/2.ca55494a.chunk.css.map",
     "static/css/main.c5606f3b.chunk.css.map": "/fenix-company-app/static/css/main.c5606f3b.chunk.css.map",
-    "static/js/2.c930ef2a.chunk.js.LICENSE.txt": "/fenix-company-app/static/js/2.c930ef2a.chunk.js.LICENSE.txt",
+    "static/js/2.2299114b.chunk.js.LICENSE.txt": "/fenix-company-app/static/js/2.2299114b.chunk.js.LICENSE.txt",
     "static/media/plugins.css": "/fenix-company-app/static/media/themify.f0fc8c79.svg",
     "static/media/Husan.d7b2da48.jpg": "/fenix-company-app/static/media/Husan.d7b2da48.jpg",
     "static/media/Mexant_pic.c3afa665.png": "/fenix-company-app/static/media/Mexant_pic.c3afa665.png",
@@ -82,10 +82,10 @@
     "static/media/yoshlar_ittifoq.961e32db.svg": "/fenix-company-app/static/media/yoshlar_ittifoq.961e32db.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9da89f8c.js",
+    "static/js/runtime-main.bf878059.js",
     "static/css/2.ca55494a.chunk.css",
-    "static/js/2.c930ef2a.chunk.js",
+    "static/js/2.2299114b.chunk.js",
     "static/css/main.c5606f3b.chunk.css",
-    "static/js/main.24f8c7cd.chunk.js"
+    "static/js/main.c1f8e7c2.chunk.js"
   ]
 }
